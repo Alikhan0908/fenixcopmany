@@ -10,8 +10,8 @@ import './plugins/slick/slick-theme.min.css';
 import 'react-modal-video/css/modal-video.min.css';
 
 function App() {
-	const [body_, setbody_] = useState();
-	const [header, setHeader] = useState("fixed");
+	const [ setbody_] = useState();
+	const [header] = useState("fixed");
 	const [header_, setHeader_] = useState();
 	let scrollPosition = useScrollPosition();
 

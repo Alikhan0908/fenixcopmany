@@ -4,7 +4,6 @@ import Header from './../Layout/Header1';
 import Footer from './../Layout/footer6';
 import PageTitle from './../Layout/PageTitle';
 import SectionCounter from './../Element/SectionCounter';
-import TestimonialCarousel from './../Element/TestimonialCarousel';
 import FormStyle from './../Element/FormStyle';
 
 //Images
@@ -17,13 +16,8 @@ import  photoshop from './../../images/expertise/photoshop.png';
 import  ai from './../../images/expertise/ai.png';
 import  corel from './../../images/expertise/corel.png';
 import  cinema from './../../images/expertise/cinema.png';
-import  zend from './../../images/expertise/zend-framework.png';
-import  ruby from './../../images/expertise/ruby-rails.png';
-import  zencart from './../../images/expertise/zencart.png';
-import  xcart from './../../images/expertise/xcart.png';
 import  python from './../../images/expertise/python-framework.png';
 import bg1 from './../../images/background/bg1.jpg';
-import bgmap from './../../images/background/bg-map.jpg';
 
 const imageBlog = [
 	{image: python, title: 'Python Framework', info:`Python - ma'lumotlar bilan ishlash bo'yicha mahsuldor dasturlash tili hisoblanadi. Web saytlarda Pythonning frameworki bo'lgan Django ishlatiladi`},

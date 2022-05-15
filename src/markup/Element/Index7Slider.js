@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import {Link} from 'react-router-dom';
 import Slider from "react-slick";
 
 import Slider5 from './../../images/main-slider/slide5.jpg';

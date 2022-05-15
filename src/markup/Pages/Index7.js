@@ -39,12 +39,7 @@ const expertBox = [
 
 ];
 
-const hoverBlog = [
-	{title: 'Shop', icon: <i className="flaticon-shop" />,},
-	{title: 'Star', icon: <i className="flaticon-star" />,},
-	{title: 'Play', icon: <i className="flaticon-play-button" />,},
-	{title: 'Heart', icon: <i className="flaticon-like" />,},
-];
+
 
 class Index7 extends Component {
     componentDidMount() {

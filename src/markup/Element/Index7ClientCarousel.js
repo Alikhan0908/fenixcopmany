@@ -78,7 +78,7 @@ class Index7ClientCarousel extends Component{
 				{imgblog.map((item,index)=>(	
 					<div className="item">
 						<div className="client-logo text-center">
-							<img src={item.image} height={'150px'}/>
+							<img src={item.image} height={'150px'} alt='q'/>
 						</div>
 					</div>
 				))}

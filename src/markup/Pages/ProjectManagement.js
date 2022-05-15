@@ -3,7 +3,6 @@ import Header from './../Layout/Header1';
 import Footer from './../Layout/footer6';
 import PageTitle from './../Layout/PageTitle';
 import SectionCounter from './../Element/SectionCounter';
-import TestimonialCarousel from './../Element/TestimonialCarousel';
 import FormStyle from './../Element/FormStyle';
 
 //Images
@@ -11,7 +10,6 @@ import rocket from './../../images/rocket.png';
 import bnr from './../../images/banner/bnr7.jpg';
 import tamplate from './../../images/tamplate.png';
 import bg1 from './../../images/background/bg1.jpg';
-import bgmap from './../../images/background/bg-map.jpg';
 
  
 const BlogLeft = ({ title, number, info }) => {
